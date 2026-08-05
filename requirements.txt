@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+playwright
+beautifulsoup4
+gradio
+reportlab
+pydantic
+requests
+fastapi
+uvicorn
