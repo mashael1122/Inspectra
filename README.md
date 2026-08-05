@@ -12,7 +12,7 @@ The project was developed as part of the **Advanced Agentic AI Engineering** cou
 * **Mashael Alshathri**
 * **Ayidah Alswayed**
 
----
+---.
 
 ## 🎓 Training Program
 
