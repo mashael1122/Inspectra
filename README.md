@@ -2,7 +2,7 @@
 
 **Inspectra** is an AI-powered **Multi-Agent UX & Accessibility Auditing System** designed to autonomously inspect public websites and web applications, identify usability and accessibility issues, and generate structured professional audit reports.
 
-The project was developed as part of the **Advanced Agentic AI Engineering** course, presented by **SDAIA Academy** in collaboration with **Daiko Academy**.
+The project was developed as part of the **Advanced Agentic AI Engineering** course, presented by **SDAIA Academy** in collaboration with **Daico Academy**.
 
 ---
 
@@ -306,4 +306,4 @@ Inspectra demonstrates key concepts covered in **Advanced Agentic AI Engineering
 **Mashael Alshathri**
 **Ayidah Alswayed**
 
-Developed as part of the **Advanced Agentic AI Engineering** course presented by **SDAIA Academy in collaboration with Daiko Academy**.
+Developed as part of the **Advanced Agentic AI Engineering** course presented by **SDAIA Academy in collaboration with Daico Academy**.
